@@ -1,11 +1,11 @@
 {
   "MySQL": {
-    "server": "localhost",
-    "database": "test_ai",
-    "username": "root",
-    "password": "root"
+    "server": "",
+    "database": "",
+    "username": "",
+    "password": ""
   },
   "OpenAI": {
-    "api_key": "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"
+    "api_key": ""
   }
 }
